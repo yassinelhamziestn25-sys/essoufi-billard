@@ -1,0 +1,13 @@
+{
+  "name": "parfum-elhamzi-api",
+  "version": "1.0.0",
+  "private": true,
+  "main": "src/index.js",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.600.0",
+    "@aws-sdk/client-s3": "^3.600.0",
+    "@aws-sdk/client-sesv2": "^3.600.0",
+    "@aws-sdk/lib-dynamodb": "^3.600.0",
+    "@aws-sdk/s3-presigned-post": "^3.600.0"
+  }
+}

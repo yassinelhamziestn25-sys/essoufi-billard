@@ -1,0 +1,54 @@
+{
+ "settings": {
+  "brand": "ESSOUFI",
+  "whatsapp": "0649118973",
+  "phone": "0649118973",
+  "email": "Hamidsoufi02@gmail.com",
+  "address": "",
+  "hours": "",
+  "footer": "Billard et accessoires au Maroc.",
+  "lowStock": 3
+ },
+ "categories": [
+  {
+   "id": "c1",
+   "name": "Queues",
+   "active": true
+  },
+  {
+   "id": "c2",
+   "name": "Billes et jeux",
+   "active": true
+  },
+  {
+   "id": "c3",
+   "name": "Craies et procédés",
+   "active": true
+  },
+  {
+   "id": "c4",
+   "name": "Triangles et accessoires",
+   "active": true
+  },
+  {
+   "id": "c5",
+   "name": "Étuis et housses",
+   "active": true
+  },
+  {
+   "id": "c6",
+   "name": "Entretien du tapis",
+   "active": true
+  },
+  {
+   "id": "c7",
+   "name": "Tables",
+   "active": true
+  }
+ ],
+ "pages": {
+  "livraison": "",
+  "terms": "",
+  "privacy": ""
+ }
+}
