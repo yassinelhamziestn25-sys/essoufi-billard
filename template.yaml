@@ -281,7 +281,7 @@ Resources:
           TargetOriginId: site
           ViewerProtocolPolicy: redirect-to-https
           Compress: true
-          CachePolicyId: 658327ea-f89d-4fc7-b769-08342213838b
+          CachePolicyId: 658327ea-f89d-4fd7-a790-a6333602c471
           FunctionAssociations:
             - EventType: viewer-request
               FunctionARN: !GetAtt RewriteFunction.FunctionARN
@@ -296,7 +296,7 @@ Resources:
             TargetOriginId: images
             ViewerProtocolPolicy: redirect-to-https
             Compress: true
-            CachePolicyId: 658327ea-f89d-4fc7-b769-08342213838b
+            CachePolicyId: 658327ea-f89d-4fd7-a790-a6333602c471
 
 Outputs:
   SiteUrl:
